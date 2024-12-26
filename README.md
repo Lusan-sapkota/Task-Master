@@ -14,10 +14,10 @@ Task Master is an Ionic-based mobile application that helps users manage tasks e
 
 ### Screenshots
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; overflow: hidden;">
-  <img src="./screenshots/ss3.png" alt="Screenshot 1" style="max-width: 100%; max-height: 200px; object-fit: cover;"/>
-  <img src="./screenshots/ss2.png" alt="Screenshot 2" style="max-width: 100%; max-height: 200px; object-fit: cover;"/>
-  <img src="./screenshots/ss1.png" alt="Screenshot 3" style="max-width: 100%; max-height: 200px; object-fit: cover;"/>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; overflow: hidden;">
+  <img src="./screenshots/ss3.png" alt="Screenshot 1" style="width: 45%; height: 100px; object-fit: cover;"/>
+  <img src="./screenshots/ss2.png" alt="Screenshot 2" style="width: 45%; height: 200px; object-fit: cover;"/>
+  <img src="./screenshots/ss1.png" alt="Screenshot 3" style="width: 45%; height: 200px; object-fit: cover;"/>
 </div>
 
 ---
