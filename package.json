@@ -1,0 +1,48 @@
+{
+  "name": "taskmaster",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@capacitor/android": "5.7.8",
+    "@capacitor/core": "^5.7.0",
+    "@capacitor/haptics": "^5.0.7",
+    "@capacitor/ios": "5.7.8",
+    "@capacitor/keyboard": "^5.0.7",
+    "@capacitor/status-bar": "^5.0.7",
+    "@ionic/react": "^7.7.3",
+    "@ionic/react-router": "^7.7.3",
+    "@supabase/supabase-js": "^2.39.7",
+    "clsx": "^2.1.0",
+    "date-fns": "^3.3.1",
+    "ionicons": "^7.2.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-hot-toast": "^2.4.1",
+    "react-router-dom": "^5.3.4",
+    "tailwind-merge": "^2.2.1",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^5.7.0",
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
+    "@types/react-router-dom": "^5.3.3",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.18",
+    "eslint": "^9.9.1",
+    "eslint-plugin-react-hooks": "^5.1.0-rc.0",
+    "eslint-plugin-react-refresh": "^0.4.11",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.5.3",
+    "vite": "^5.4.2"
+  }
+}

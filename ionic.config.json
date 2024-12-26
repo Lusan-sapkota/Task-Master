@@ -1,0 +1,7 @@
+{
+  "name": "Task Master",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Task Master</string>
+    <string name="title_activity_main">Task Master</string>
+    <string name="package_name">com.taskmaster.app</string>
+    <string name="custom_url_scheme">com.taskmaster.app</string>
+</resources>
