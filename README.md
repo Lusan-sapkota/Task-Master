@@ -1,6 +1,8 @@
 # Task Master
 
-![Logo](./assets/icon-only.png)
+<p align="center">
+  <img src="./assets/icon-only.png" alt="Logo" width="200"/>
+</p>
 
 ## Project Overview
 
@@ -12,12 +14,10 @@ Task Master is an Ionic-based mobile application that helps users manage tasks e
 
 ### Screenshots
 
-<div style="display: flex; justify-content: space-between; gap: 10px; overflow: hidden;">
-
-  <img src="./screenshots/ss3.png" alt="Screenshot 1" style="max-width: 300px; max-height: 200px; object-fit: cover;"/>
-  <img src="./screenshots/ss2.png" alt="Screenshot 2" style="max-width: 300px; max-height: 200px; object-fit: cover;"/>
-  <img src="./screenshots/ss1.png" alt="Screenshot 3" style="max-width: 300px; max-height: 200px; object-fit: cover;"/>
-
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; overflow: hidden;">
+  <img src="./screenshots/ss3.png" alt="Screenshot 1" style="max-width: 100%; max-height: 200px; object-fit: cover;"/>
+  <img src="./screenshots/ss2.png" alt="Screenshot 2" style="max-width: 100%; max-height: 200px; object-fit: cover;"/>
+  <img src="./screenshots/ss1.png" alt="Screenshot 3" style="max-width: 100%; max-height: 200px; object-fit: cover;"/>
 </div>
 
 ---
