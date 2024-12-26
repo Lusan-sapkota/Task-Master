@@ -6,11 +6,19 @@
 
 Task Master is an Ionic-based mobile application that helps users manage tasks efficiently. The app is designed to be simple yet powerful, allowing users to track their tasks and stay organized.
 
+## To Be Lived and App Will Be Uploaded Soon!
+
+.apk will be uploaded with the some known bug fixed within some days/weeks. 
+
 ### Screenshots
 
-![Screenshot 1](./screenshots/ss3.png)
-![Screenshot 2](./screenshots/ss2.png)
-![Screenshot 3](./screenshots/ss1.png)
+<div style="display: flex; justify-content: space-between; gap: 10px; overflow: hidden;">
+
+  <img src="./screenshots/ss3.png" alt="Screenshot 1" style="max-width: 300px; max-height: 200px; object-fit: cover;"/>
+  <img src="./screenshots/ss2.png" alt="Screenshot 2" style="max-width: 300px; max-height: 200px; object-fit: cover;"/>
+  <img src="./screenshots/ss1.png" alt="Screenshot 3" style="max-width: 300px; max-height: 200px; object-fit: cover;"/>
+
+</div>
 
 ---
 
