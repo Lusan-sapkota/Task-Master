@@ -1,4 +1,3 @@
-```markdown
 # Task Master
 
 ![Logo](./assets/icon-only.png)
@@ -11,7 +10,7 @@ Task Master is an Ionic-based mobile application that helps users manage tasks e
 
 ![Screenshot 1](./screenshots/ss3.png)
 ![Screenshot 2](./screenshots/ss2.png)
-![Screenshot 3](./screenshots/ss3.png)
+![Screenshot 3](./screenshots/ss1.png)
 
 ---
 
@@ -106,4 +105,3 @@ We welcome contributions! If you find any issues or have suggestions for improve
 ## Contact
 
 For any questions or suggestions, feel free to contact me directly at [Sapkotalusan@gmail.com].
-```
