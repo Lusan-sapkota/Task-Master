@@ -5,13 +5,13 @@
 
 ## Project Overview
 
-Task Master is an Ionic-based mobile application that helps users to manage tasks efficiently. The app is designed to be simple yet powerful, allowing users to track their tasks and stay organized.
+Task Master is an Ionic-based mobile application that helps users manage tasks efficiently. The app is designed to be simple yet powerful, allowing users to track their tasks and stay organized.
 
 ### Screenshots
 
-![Screenshot 1](./screenshots/ss3.png) 
-![Screenshot 2](./screenshots/ss2.png) 
-![Screenshot 3](./screenshots/ss3.png) 
+![Screenshot 1](./screenshots/ss3.png)
+![Screenshot 2](./screenshots/ss2.png)
+![Screenshot 3](./screenshots/ss3.png)
 
 ---
 
@@ -31,7 +31,7 @@ Before you begin, make sure you have the following installed on your local machi
 
 ## Getting Started
 
-### 1. Clone the repository
+### 1. Clone the Repository
 
 Clone the project to your local machine using Git:
 
@@ -40,7 +40,7 @@ git clone https://github.com/Lusan-sapkota/Task-Master.git
 cd Task-Master
 ```
 
-### 2. Install dependencies
+### 2. Install Dependencies
 
 Install the required Node.js modules using npm:
 
@@ -50,7 +50,7 @@ npm install
 
 This will install all the dependencies required for the app to run.
 
-### 3. Run the app locally
+### 3. Run the App Locally
 
 To run the Ionic app in the browser for testing:
 
@@ -60,7 +60,7 @@ ionic serve
 
 This will launch the app in your browser at `http://localhost:8100`.
 
-### 4. Running the app on Android Emulator
+### 4. Running the App on Android Emulator
 
 To run the app on an Android Emulator (assuming you have Android Studio set up), follow these steps:
 
@@ -87,13 +87,13 @@ Stay tuned for updates by following the repository!
 
 ## License
 
-This project is licensed under the [CC BY-NC 4.0](./LICENSE.txt).
+This project is licensed under the **CC BY-NC 4.0** license. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
 ## Contributing
 
-We welcome contributions! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request. 
+We welcome contributions! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 1. Fork the repository
 2. Create a new branch
@@ -105,6 +105,5 @@ We welcome contributions! If you find any issues or have suggestions for improve
 
 ## Contact
 
-For any questions or suggestions, feel free to contact me directly at [Your Email Address].
-
+For any questions or suggestions, feel free to contact me directly at [Sapkotalusan@gmail.com].
 ```
