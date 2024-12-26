@@ -1,116 +1,87 @@
-# Task Master
+# Task Master 📱
 
 <p align="center">
   <img src="./assets/icon-only.png" alt="Logo" width="200"/>
 </p>
 
-## Project Overview
+<div align="center">
 
-Task Master is an Ionic-based mobile application that helps users manage tasks efficiently. The app is designed to be simple yet powerful, allowing users to track their tasks and stay organized.
+![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-blue)
+![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android-lightgrey)
+![Status](https://img.shields.io/badge/status-In%20Development-yellow)
 
-## To Be Lived and App Will Be Uploaded Soon!
-
-.apk will be uploaded with the some known bug fixed within some days/weeks. 
-
-### Screenshots
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; overflow: hidden; max-width: 100%; justify-items: center;">
-  <img src="./screenshots/ss3.png" alt="Screenshot 1" style="width: 100%; height: auto; max-height: 400px; object-fit: cover;"/>
-  <img src="./screenshots/ss2.png" alt="Screenshot 2" style="width: 100%; height: auto; max-height: 400px; object-fit: cover;"/>
-  <img src="./screenshots/ss1.png" alt="Screenshot 3" style="width: 100%; height: auto; max-height: 400px; object-fit: cover;"/>
 </div>
 
+## 🚀 About
 
----
+Task Master is a powerful yet intuitive task management mobile application built with Ionic. Designed for simplicity and efficiency, it helps you stay organized and productive throughout your day.
 
-## Prerequisites
+> ⚠️ **Coming Soon**: APK release with bug fixes expected in the coming weeks!
 
-Before you begin, make sure you have the following installed on your local machine:
+## 📱 Screenshots
 
-- **Node.js** (v14.x or later): [Download Node.js](https://nodejs.org/)
-- **Ionic CLI**: Install it globally using npm:
-  ```bash
-  npm install -g @ionic/cli
-  ```
-- **Git**: Install Git if you don't already have it: [Git Downloads](https://git-scm.com/downloads)
-- **Android Studio** (for running on Android Emulator): [Android Studio Setup](https://developer.android.com/studio)
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+  <img src="./screenshots/ss3.png" alt="Screenshot 1" style="width: 100%; border-radius: 10px;"/>
+  <img src="./screenshots/ss2.png" alt="Screenshot 2" style="width: 100%; border-radius: 10px;"/>
+</div>
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <img src="./screenshots/ss1.png" alt="Screenshot 3" style="width: 48%; border-radius: 10px;"/>
+</div>
 
----
+## 🛠️ Prerequisites
 
-## Getting Started
+- **Node.js** (v14+) - [Download](https://nodejs.org/)
+- **Ionic CLI** - `npm install -g @ionic/cli`
+- **Git** - [Download](https://git-scm.com/downloads)
+- **Android Studio** - [Download](https://developer.android.com/studio)
 
-### 1. Clone the Repository
+## 🚀 Getting Started
 
-Clone the project to your local machine using Git:
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Lusan-sapkota/Task-Master.git
+   cd Task-Master
+   ```
 
-```bash
-git clone https://github.com/Lusan-sapkota/Task-Master.git
-cd Task-Master
-```
+2. **Install Dependencies**
+   ```bash
+   npm install
+   ```
 
-### 2. Install Dependencies
+3. **Run Locally**
+   ```bash
+   ionic serve
+   ```
 
-Install the required Node.js modules using npm:
+4. **Deploy to Android**
+   ```bash
+   npx cap copy android
+   npx cap open android
+   ```
 
-```bash
-npm install
-```
+## 🔜 Roadmap
 
-This will install all the dependencies required for the app to run.
+- Bug fixes and performance improvements
+- New feature implementations
+- UI/UX enhancements
 
-### 3. Run the App Locally
+## 📄 License
 
-To run the Ionic app in the browser for testing:
+Licensed under CC BY-NC 4.0. See [LICENSE](LICENSE) for details.
 
-```bash
-ionic serve
-```
-
-This will launch the app in your browser at `http://localhost:8100`.
-
-### 4. Running the App on Android Emulator
-
-To run the app on an Android Emulator (assuming you have Android Studio set up), follow these steps:
-
-- Ensure you have set up an Android emulator via Android Studio.
-- Run the following command to build and deploy the app on the emulator:
-
-```bash
-npx cap copy android
-npx cap open android
-```
-
-This will open Android Studio, where you can run the app on your emulator or connected device.
-
----
-
-## Future Updates & Bug Fixes
-
-- **Future Updates:** We are actively working on improving the app with new features and enhancements.
-- **Bug Fixes:** Known bugs are being tracked, and fixes will be rolled out in future versions.
-
-Stay tuned for updates by following the repository!
-
----
-
-## License
-
-This project is licensed under the **CC BY-NC 4.0** license. See the [LICENSE](LICENSE) file for more details.
-
----
-
-## Contributing
-
-We welcome contributions! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+## 🤝 Contributing
 
 1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Commit and push your changes
-5. Open a pull request
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit changes (`git commit -m 'Add AmazingFeature'`)
+4. Push to branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📬 Contact
+
+Have questions? Email me at [Sapkotalusan@gmail.com](mailto:Sapkotalusan@gmail.com)
 
 ---
-
-## Contact
-
-For any questions or suggestions, feel free to contact me directly at [Sapkotalusan@gmail.com].
+<div align="center">
+Made with ❤️ by Lusan Sapkota
+</div>
