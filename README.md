@@ -21,8 +21,8 @@ Task Master is a powerful yet intuitive task management mobile application built
 ## 📱 Screenshots
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-  <img src="./screenshots/ss3.png" alt="Screenshot 1" style="width: 100%; border-radius: 10px;"/>
-  <img src="./screenshots/ss2.png" alt="Screenshot 2" style="width: 100%; border-radius: 10px;"/>
+  <img src="./screenshots/ss3.png" alt="Screenshot 1" style="width: 48%; border-radius: 10px;"/>
+  <img src="./screenshots/ss2.png" alt="Screenshot 2" style="width: 48%; border-radius: 10px;"/>
 </div>
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <img src="./screenshots/ss1.png" alt="Screenshot 3" style="width: 48%; border-radius: 10px;"/>
