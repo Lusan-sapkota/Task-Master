@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-blue)
+![License](https://img.shields.io/badge/license-GPL%20v3-blue)
 ![Platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android-lightgrey)
 ![Status](https://img.shields.io/badge/status-In%20Development-yellow)
 
@@ -67,7 +67,7 @@ Task Master is a powerful yet intuitive task management mobile application built
 
 ## 📄 License
 
-Licensed under CC BY-NC 4.0. See [LICENSE](LICENSE) for details.
+Licensed under GPL-3.0. See [LICENSE](LICENSE) for details.
 
 ## 🤝 Contributing
 
